@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InfoX 2015</string>
+    <string name="menu_settings">Settings</string>
+    <string name="summary">InfoX is the annual tech fest of USICT\nStuff\nStuff\nStuff</string>
+    <array id="eventTypesIdArr" name="eventTypesIdArr">
+        <item>@array/proEvents</item>
+        <item>@array/cultEvents</item>
+        <item>@array/techEvents</item>
+        <item>@array/maraEvents</item>
+    </array>
+    <array id="eventAbstIdArr" name="eventAbstIdArr">
+        <item>@array/proEventsAbst</item>
+        <item>@array/cultEventsAbst</item>
+        <item>@array/techEventsAbst</item>
+        <item>@array/maraEventsAbst</item>
+    </array>
+
+    <string-array id="eventTypes" name="eventTypes">
+        <item>Technical</item>
+        <item>Cultural</item>
+        <item>Workshops</item>
+        <item>Lectures</item>
+    </string-array>
+    <string-array id="proEvents" name="proEvents">
+        <item>Im Batman</item>
+        <item>Im Batman</item>
+        <item>Im Batman</item>
+        <item>Im Batman</item>
+    </string-array>
+    <string-array id="cultEvents" name="cultEvents">
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+    </string-array>
+    <string-array id="techEvents" name="techEvents">
+        <item>Im Batman</item>
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+		<item>Im Batman</item>
+    </string-array>
+    <string-array id="maraEvents" name="maraEvents">
+        <item>Im Batman</item>
+    </string-array>
+    <string-array id="workshops" name="workshops">
+        <item>ArduinoBOTics</item>
+		<item>ARM Microcontrollers</item>
+		<item>AutoSpark</item>
+		<item>Ethical Hacking</item>
+        <item>Mobile Hacking and Penetration Testing</item>
+        <item>Automotive System and Development</item>
+		<item>Android Application Development Challenge</item>
+    </string-array>
+    <string-array id="quizEvents" name="quizEvents">
+        <item>Introduction</item>
+        <item>Obscura</item>
+        <item>Eureka!</item>
+        <item>Collosseum</item>
+        <item>Quizooka</item>
+        <item>Technophilia</item>
+    </string-array>
+    <string-array id="litEvents" name="litEvents">
+		<item>PotterMania</item>
+		<item>Un\-Srcamlbe</item>
+		<item>Cache of the Lexis</item>
+		<item>Ransense</item>
+        <item>JAM</item>
+		<item>Spell Bee</item>
+		<item>Wordwars</item>
+    </string-array>
+    <string-array id="proEventsAbst" name="proEventsAbst">
+	    <item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>	
+	</string-array>
+	<string-array id="cultEventsAbst" name="cultEventsAbst">
+        <item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+   </string-array>
+	<string-array id="techEventsAbst" name="techEventsAbst">
+	    <item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+		<item>Stuff</item>
+   </string-array>
+	<string-array id="maraEventsAbst" name="maraEventsAbst">
+		<item>Stuff</item>
+   </string-array>
+	<string-array id="workshopsAbst" name="workshopsAbst">
+		<item>ArduinoBOTics is a workshop that very interestingly introduces you to the exciting world of Embedded  Systems. It is a combination of Mechanical Designing\-Electronics Control \-Programming Intelligence. Arduino is an open\-source electronics prototyping platform based on flexible, easy\-to\-use hardware and software. This training of two days is aimed at giving hands\-on feel of working with industry adopted microcontrollers. Various interesting open problems are floated and the participants are encouraged to think out\-of\-box and come up with innovative ideas. It is intended for artists, designers, hobbyists, and anyone interested in creating interactive objects or environments.\n\nThe fee is Rs. 1200\/\- for each student\n\nTakeaway\n1. Kit worth Rs. 5000\/\- in a team of 5 students.\n2. Certificate of participation will also be given to each participant.\n\nFor Details, Contact:\nVinit Sharaswat+91\-8602790787  vinitsharswat@gmail.com\nVineet Kataria+91\-9589628975</item>
+		<item>ARM Microcontrollers, the latest in controllers family is in high demand within industries. These 32 bit chip is too far better than old controller architectures. The workshop on \"ADVANCE EMBEDDED SYSTEM USING ARM MICROCONTROLLERS\" will be a two full day exhaustive workshop and will cover detailed theory and practical sessions, with hands\-on experience for the students to learn a 32 bit ARM Microcontroller with advance Raspberry Pi kit.During the workshop, the students learn how to sense and control the physical world using computer programs running on 32 bit controllers. These high speed controllers are brought in easy process to make students capable to use ARM family controllers. The workshop is aimed to work on RASPBERRY PI boards and learn various interfacings.\n\nThe fee is Rs. 790\/\- per student.\n\nTakeaway\n1.Participation Certificate will be given to all participants.\n2. Participants will be provided an exhaustive handbook which will contain all covered topics, codes and kits description.\n\nFor Details, Contact:\nShubanshu Bajaj +91\-9753903995 shubhanshubajaj234@gmail.com\nShikhar Bansa+91\-7828469474</item>
+		<item>A two Day Workshop (8 hours per day) on  AutoSpark (Workshop on Automobile Mechanics and IC Engine Design.) is presented. The Workshop includes exhaustive learning sessions with comprehensive theory and practical hands on, providing advanced learning which includes Basics of designing software i.e. CATIA V5 or Solidworks and learning of whole Automobile unit live Engine and car (if possible) through demonstration.The workshop is highly beneficial for students who wish to pursue a career in Automobile Industry.\n\nThe fee is Rs. 1000\/\- per student.\n\nTakeaway\n1. Participation Certificates will be given to all the participants\n\nFor Details, Contact:\nShantanu Rajput  +91\-7354268871 shantanu3493@gmail.com\nVikas Sankhla+91\-8989495466</item>
+		<item>The September 9\/11 Attacks on the World Trade Center ignited a very important question in the hearts of the founders of EC\-Council. Shortly after the attacks, they researched the web for \"Information Security\" programs that would be able to provide Information Security professionals with the necessary tools and education that will help them avert a cyber war, should the need ever arise. The results returned from the research were disappointing and that motivated them to form the International Council of Electronic Commerce Consultants, known as the EC\-Council. They soon gained the support of subject matter experts from all over the world that eventually led to the creation of various standards and certifications both in the electronic commerce and information security space.The EC\-Council is known primarily as a professional certification body. Its best\-known certification is the Certified Ethical Hacker. Now, EC council presents a two day (8 hours/day) workshop on Ethical Hacking. The participants will be benefitted through Demonstrations of  Latest Hacking Techniques and Tools and PowerPoint Presentations, Live Demos and Hacking Tutorials with HD Videos. Also, they will learn and interact with EC Council Certified Industry Experts.\n\nThe fee is Rs. 1000\/\- per student.\n\nTakeaway\n1.Toolkit (Hacking Tools + Backtrack) will be provided to each participant.\n2. Participation Certificates will be given to all the participants\n\nFor Details, Contact:\nRadhe+91\-7869252177\nShubanshu Bajaj+91\-9753903995</item>
+		<item>The International Council of E\-Commerce Consultants (EC\-Council) is a member\-based organization that certifies individuals in various e\-business and information security skills. It is the owner and creator of the world famous Certified Ethical Hacker (CEH), Computer Hacking Forensics Investigator (CHFI) and EC\-Council Certified Security Analyst (ECSA)/License Penetration Tester (LPT) programs, and as well as many others programs. Its objective is to raise international awareness towards increased education and ethics in IT Security. The EC\-Council is known primarily as a professional certification body.\nThe International Council of  E\-Commerce Consultants (EC\-Council) presents a 2 day workshop on Mobile Hacking, Cyber Forensics and Penetration Testing. During the two day (8 hours each day) training of Mobile Hacking, Cyber Forensics and Penetration Testing Workshop the participants will learn Latest Hacking Techniques and Tools through PowerPoint Presentations, Live Demos and Hacking Tutorials with HD Videos.\n\nThe fee is Rs. 1000\/\- per student.\n\nTakeaway\n1.Toolkit (Hacking Tools + Backtrack) will be provided to each participant.\n2. Participation certificate from IIT Indore and TechBharat Consulting.\n\nFor Details, Contact:\nShikhar Bansal+91\-7828469474\nVinit Sharaswat+91\-8602790787 vinitsharswat@gmail.com</item>
+        <item>\"India’s First and Unique Formula Based High Performance Car Training Programme\"\nThe most modern technologies are the derivatives of fundamentals of engineering, basic physics, chemistry and mathematics. To make the students understand this fact so that they could understand and appreciate the theories they learn in their classes, we have chosen \"a high performance vehicle to design in a formula based style\" as there is a huge learning of optimization of Speed, Strength and Stability simultaneously which undoubtedly is an exceptional design challenge to take.\n\nA full time Training Program on \"Automotive System design and development\" specially targeted on Formula1 Car Design and Development with comprehensive theory and design, providing advanced learning of Automobile designing and manufacturing is being presented. \n\nCOURSE DURATION: 30 Hrs. (20 Hrs. + 10 Hrs.) \nCOURSE CHARGES: Rs 4000 per head.\nDates: 1st\-6th Feb\nVenue: IIT INDORE\n\nHighlights:\n1. Certification in association with Fluxus’14, IIT Indore.\n2. I week Crash Course on \"Automotive System design and development\".\n3. Get your hands dirty with designing tools e.g. Solidworks, Ansys etc.\n4. Learn all concept of Vehicle dynamics w.r.t. Formula 1. \n5. Get guidance from experts for different competitions e.g. Supra , Baja etc. \n6. Free*Accommodation @ IIT INDORE for a Week\n7. Get a chance to participate in the various competitions lined\-up just after the Workshop.\n8. Be a part of Central India’s Biggest College Fest\-Fluxus’14\nHurry Up!! Limited Seats Only!!\n\nFor further Details, Contact:\nShantanu Rajput    +91 7354268871\nVineet Kataria  +91 9589628975\n\n*conditions apply</item>
+        <item>\"Workshop on Android App Development followed by Pre\-limes round for AADC Event\"\nVISIT http://www.aadc.in/\n\nAADC Highlights:\n* AADC is a National Level Competition on Android Application Development\n* 1st time in India a competition on Android App Development\n* Competition will be held in 30 different centers across India among 4500+ students.\n* The final round of AADC will held at Fluxus 2014 – IIT Indore on 7th – 9th Feb 2014.\n* Prizes up to Rs 1,00,000/\- to be won which includes Android Mobiles/Tablets etc,\n\nDates:\n25\-26th Jan\nVenue:\nIIT Indore\nFees:\n1000/\- Rs per participant\n\nFor further details, Contact:\nShikhar Bansal: +91\-7828469474\nRadhe: +91\-7869252177</item>
+	</string-array>
+    <string-array id="quizEventsAbst" name="quizEventsAbst">
+        <item>\"Man will not live without answers to his questions.\" says Hans.J.Morgenthau.\nWe at Quiz Fest, Fluxus\'14 play host to this unfaltering desire you have, to conquer questions. How? By granting you the opportunity to pit your wit against the Quiz Master.\nQuizzes have always been the best way to keep up with the amount of information soaring in from around the world. And if Quizzes like these caption you to be the Quiz\-Wizards of Central India\'s Largest Techno\-Cult Fest, you are surely in for it, aren\'t you?\nSo tighten your seat belts, pump your fists, get ready for some nerve wracking and unsettling of hair as quizzes from variant genres are waiting to arrive at your stations!!\n\n\nCome on, now! Be the man Hans.J.Morgenthau thinks you are :P\n\n\-Ramesh Krishna +918871849129</item>
+        <item>\"We wish you first, a sense of logic\nOnly those who know illusion and love it, will go far.\nOtherwise you spend your lives in confusion...\nOf what you think they are stating, to what they really are!!\"\n\n\nObscura\-IQ Quiz is the foremost event of The Quiz Fest that needs you to put your wits in the nifty world of logic. This event swirls you\nthrough exciting rounds of Einstein Riddles, Murder mysteries, Logical Thinking\nand much more to test your logical and deductive skills.\nThe best thing about Obscura is that, for its namesake, it puts only your quotient of intelligence to test. Common Sense is all what you need! What we wished you first)\nSo,\nCome. Go far. Win it!\n\nSurya Teja Thogaru    +918085525658   surya.thogaru5@gmail.com\nJaswanth Singh    +917597356229\nRajesh Verma +9195899185</item>
+        <item>Ever wondered what shooting stars were? Or, what is it that turned the sky blue?\nDid it ever strike you to know the reason behind \'em?\nIf you have preserved this curious child in you, who questions almost everything he does not know the reason for, you are just at the right place!\nEureka is Quiz Club\'s move to make you quench your Archimedian thirst!\nSo, bring in with your aura, the Eureka factor...\n\n\- N.S.Vidyaranya +917415430232\n\- Abhinav Marda +919407406684</item>
+        <item>Welcome to The Colosseum\- where Sports and Entertainment collide in a profusion of blood and sweat\nThe year is 90 AD. All the stands are filled. The crowd is excited. The tension in the air is palpable. Caesar and the Pretoria are lounging in their boxes. The rich adjust their feather cushions. The poor haggle spiritedly over bets.\nThe people are happy.\nThe Colosseum is an arena for the knowledgeable folks of the world. Do you have what it takes to escape devious traps set for sports? Do you have what it takes to parry questions about entertainment? DO YOU HAVE WHAT IT TAKES TO WIN THE APPROVAL OF THE CROWD?\n\n\- Mayur Joseph Bency +918435163621\n\- Rishabh Chaudhary +919685331213</item>
+        <item>\"The more you learn, the more you realize how little you know..\" – Socrates\nThink you know about a thing or two? You dare challenge the machine?\nGet ready to be baffled and bombarded with questions about everything under the sun. Not for the faint\-hearted, \'Quizooka\' will test your knowledge; in a manner like no other... delving into trivia you never knew... a lot of times about things you thought you knew (as a worthy challenger).\nThe last 3 teams standing would deservedly take the spoils... and boast of challenging and beating the machine \- a joy few mortals know.\nBut REMEMBER, know\-how is just the beginning; wit and clever thinking are often the machine\'s true weakness.\n\n\- Karthik Muthuraman +918349462703\n\- Anas Shaikh +919617887370</item>
+        <item>So you think you keep yourself updated with the latest buzz of tech world???\"If you tried to read every document on the web, then for each day\'s effort, you would be a year further behind in your goal.\" So not just latest but it\'s about the whole journey of tech evolution... Do you think you\'re up to the challenge? Then wait no further! Join us to test your knowledge, and know where you stand...\n\n\-Priyan +917415470078\nArvind Sagar()</item>
+    </string-array>
+	<string-array id="litEventsAbst" name="litEventsAbst">
+		<item>Do you find charms, transfiguration and even history of magic more interesting than maths and science? Are you in a habit of trying out Accio to summon the T.V. remote before you actually go get it? Have you ever furtively picked up an odd shaped twig and muttered a charm in the hope of being accepted at Hogwarts? If yes, come check your PotterMania level by answering some of the easiest and toughest questions at the Harry Potter quiz @Fluxus \'14 informal zone.</item>
+		<item>Yes, you guessed it right! Ready your wits for some word-building fun. Manoeuvre your way through a plethora of word games that would surely put your vocabularies to test. So buck up as everyone can try a shot at the right word. The contest is gonna be neck to neck, with a bagful of exciting prizes to take!</item>
+		<item>Secret alert for all Patricks, Richards and Sherlocks! So you think you can crack this code? For all the code breaking enthusiasts comes an event to test their deductive skills and turn their stomachs, Cache Of Lexis(COL). There has been a disaster and its difficult to determine what is the final secret. That is where you, the Ultimate Code Breaker come up. Form a team and use your deductive/abductive/inductive skills to crack set of puzzles to reach the ultimate secret behind the coded problem and win exciting prizes</item>
+		<item>This event is only for students of classes 9th and 10th.\n\n\"Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.\"\nWith these words by Virginia Woolf in our minds, we present before u the most interesting, most intriguing and the most innovative specimen of literary competition\-RANSENSE.So, all the budding writers, poets and other enthusiasts, scratch your minds, let your inside speak and your quill tear the paper to create a masterpiece you have never written before. In life, we often leave it on our fate to decide the end but here is the opportunity for the zealous and creative minds to make their own story of the already begun one and mesmerize the readers with humorous bends, an eye catching climax and high vocabulary. Use your talent, accept the challenge and prove yourself of what you are worth.\nThe rules of the game are simple yet challenging\-random paragraph along the list of ten words will be given with you must continue ensuring the use of all ten words and convert it into an article, essay, story, dialogue or a poem.</item>
+        <item>For both the loquacious and the reticent, JAM(Just a Minute) invites you to speak on a given topic for sixty seconds without hesitation,repition, or deviation.Share your perspectives and experiences with the world.\nSo Grab the topic, Jump on the stage and get a chance to win exciting prizes.</item>
+        <item>Ever felt dyslexic over the spelling of receive? Were you ever able to recollect the \'s\'es in Mississippi? Word\-spellings come to haunt you again with this uniquely designed Spell Bee. Designed with a variety of tricky and confusing words, be ready to amaze or be amazed! Brace yourself for the challenge, can you get them all?</item>
+        <item>Is it true that money rules over us all? And if not, why are more and more engineers opting for business studies over further studies in their own field just because it would land them a job that pays better? If you have an opinion and are able and willing to defend it and take it home, the debate at Fluxus \'14 is just the thing for you. Put forward your views. Be fierce. Be relentless. Be convincing. And get a chance to win exciting prizes.</item>
+	</string-array>
+</resources>
