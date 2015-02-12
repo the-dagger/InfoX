@@ -1,9 +1,9 @@
-Fluxus 2014
+INFOX 2015
 ============
 
-An app for the annual tech/cultural fest of IIT Indore.
+An app for the annual tech fest of USICT Dwarka.
 
-###Contains:
+Contains:
 * Details of the fest.
 * Contacts
 * Events
