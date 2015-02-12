@@ -1,4 +1,4 @@
-INFOX 2015
+InfoX 2015
 ============
 
 An app for the annual tech fest of USICT Dwarka.
